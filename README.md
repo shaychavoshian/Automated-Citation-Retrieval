@@ -41,22 +41,15 @@ Some portions of the tool may not be shared due to:
 - [ ] Validate citation accuracy across databases.
 - [ ] Share the script with research collaborators.
 
-## 📆 Timelines & Milestones
-| Activity                       | Status        | Planned Completion | Comments |
-|---------------------------------|---------------|---------------------|----------|
-| Develop Python script           | Completed    | 30-08-2024         | Initial version complete |
-| Test across multiple databases  | On Track     | 15-09-2024         | Testing phase in progress |
-| Publish code repository         | Not Started  | 30-09-2024         | Pending final tests |
-
 ---
 
 ## 👥 The Team
 **Lead Developer:** Shaghayegh Chavoshian
+**Project Lead:** Ali Barzegar
+**Supervisor:** Principal Investigator
+
 
 📫 **Contact:** [shay.chavoshian@mail.utoronto.ca](mailto:shay.chavoshian@mail.utoronto.ca)
-
-## 🤝 Acknowledgement
-This project was supported by the Digital Research Alliance of Canada | Alliance de recherche numérique du Canada EDIA Champion Award.
 
 ---
 
