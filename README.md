@@ -1,1 +1,1 @@
-# Automated-Citation-Retrieval-
+# Automated-Citation-Retrieval
