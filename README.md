@@ -46,7 +46,7 @@ Some portions of the tool may not be shared due to:
 ## 👥 The Team
 **Lead Developer:** Shaghayegh Chavoshian
 **Project Lead:** Ali Barzegar
-**Supervisor:** Principal Investigator
+**Supervisor:** Dr. Atena Roshan Fekr
 
 
 📫 **Contact:** [shay.chavoshian@mail.utoronto.ca](mailto:shay.chavoshian@mail.utoronto.ca)
